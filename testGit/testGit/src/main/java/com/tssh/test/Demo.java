@@ -15,5 +15,9 @@ public class Demo {
 
     }
 
+    public void test3(){
+        System.out.println("  ");
+    }
+
 
 }
