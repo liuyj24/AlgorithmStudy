@@ -7,7 +7,13 @@ public class Demo {
         int c = a + b;
     }
 
-    public void test2(){
+    public void test2() {
         System.out.println("haha");
     }
+
+    public void test(){
+
+    }
+
+
 }
