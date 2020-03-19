@@ -2,6 +2,12 @@ package com.tssh.test;
 
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("master...");
+        int a = 0;
+        int b = 0;
+        int c = a + b;
+    }
+
+    public void test2(){
+        System.out.println("haha");
     }
 }
